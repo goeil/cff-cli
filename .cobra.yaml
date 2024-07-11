@@ -1,0 +1,9 @@
+author: Cédric Jung <cedric.jung@gmail.com>
+year: 2024
+license:
+  header: Ce fichier fait partie d'une application nommée cff
+  text: |
+    {{ .copyright }}
+
+    Ce programme n'a pas de licence. Il est développé pour les besoins
+    de Cédric
