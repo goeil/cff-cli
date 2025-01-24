@@ -1,5 +1,5 @@
 # cff-cli
-CLI client to SBB/CFF API (for Swiss trains), whitten in Go
+CLI client to SBB/CFF API (for Swiss trains), written in Go
 
 ## Usage
 
